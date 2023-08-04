@@ -1,2 +1,2 @@
-# heap_mem_leak_c
-memory leak on heap -> C algorithm
+# heap_mem_trash-leak_c
+trash leak on heap -> C algorithm
